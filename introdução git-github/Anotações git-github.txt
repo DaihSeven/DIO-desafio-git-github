@@ -1,0 +1,3 @@
+tornar público
+procurar por github em documentos
+sempre commit/salvar alterações
